@@ -1,0 +1,15 @@
+# Compiled binaries
+/bin/
+*.exe
+
+# Local environment overrides
+.env
+
+# Test / scratch artifacts
+*.err
+coverage.out
+
+# OS and editor cruft
+.DS_Store
+.idea/
+.vscode/
